@@ -49,7 +49,7 @@ $h1_text = "You know it!";
     <!-- Primary Page Layout
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <div class="container">
-      <div class="row verticalr">
+      <div class="row">
         <div class="column" style="margin-top: <?php echo $top_margin ?>">
           <h1>
             <?php echo $h1_text ?>
